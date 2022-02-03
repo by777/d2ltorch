@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="55ee0d7f-b4c2-4bfd-9f37-e98fb17dfa8a" name="fish@xps">
+        <fileTransfer rootFolder="/home/fish/pythonProject" accessType="SFTP" host="23.248.163.165" port="20022" sshConfigId="06feb502-e998-427b-96a7-5b2fe205db1f" sshConfig="fish@xps">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
